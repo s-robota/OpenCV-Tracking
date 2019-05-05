@@ -21,6 +21,9 @@ $ python opencv_tracking.py -v [*.mp4] -m [tracking method]
 - `opencv_tracking.py`: 動画に対してトラッキングを実行します．
 - `compare_results.py`: 上記で出力された複数手法の結果を全て描画した比較動画を出力します．
 
+### 結果例    
+<img src="./imgs/img1.jpg" width="500">
+
 ## TODO
 - 各手法の概要を追加
 
